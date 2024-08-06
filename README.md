@@ -1,5 +1,6 @@
 # Automatic_Image_Orientation_detection_using_Transfer_Learning
 
-Code will be uploaded soon....
+- Resnet50 and VGG16 models trained on kaggle's T4 GPU
+- Vison Transformer trained on Nvidia GeForce RTX 4060 GPU
 
-(Outputs are updated)
+
